@@ -1,2 +1,2 @@
 # go-bookstore
- golang book store api
+ golang book store api server
